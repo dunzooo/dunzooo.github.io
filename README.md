@@ -35,3 +35,8 @@ Pong utilise les services API de YouTube pour cette fonctionnalité.
 
 - [Conditions d’utilisation de YouTube](https://www.youtube.com/t/terms)
 - [Politique de confidentialité de Google](https://policies.google.com/privacy)
+
+## Documents
+
+- [Politique de confidentialité](./confidentialite.html)
+- [Conditions d’utilisation](./conditions.html)
